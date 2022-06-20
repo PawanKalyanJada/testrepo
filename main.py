@@ -1,3 +1,1 @@
-import os
-
-print('the task is done')
+print('ok')
